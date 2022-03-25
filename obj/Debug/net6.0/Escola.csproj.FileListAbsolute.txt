@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\bin\Debug\net6.0\Escola.exe
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\bin\Debug\net6.0\Escola.deps.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\bin\Debug\net6.0\Escola.runtimeconfig.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\bin\Debug\net6.0\Escola.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\bin\Debug\net6.0\ref\Escola.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\bin\Debug\net6.0\Escola.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.AssemblyInfo.cs
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\ref\Escola.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Escola\obj\Debug\net6.0\Escola.genruntimeconfig.cache
